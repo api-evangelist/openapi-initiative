@@ -7,10 +7,9 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
+  - Linux Foundation
   - Specifications
   - Standards
-  - Linux Foundation
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,7 +22,6 @@ apis:
       API for accessing OpenAPI Initiative resources, specifications, and tooling ecosystem documentation for defining standard interfaces to RESTful APIs.
     humanURL: https://spec.openapis.org/
     tags:
-      - API
       - Specifications
     properties:
       - type: Documentation
