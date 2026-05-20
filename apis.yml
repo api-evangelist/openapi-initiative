@@ -27,6 +27,8 @@ apis:
       - type: Documentation
         url: https://spec.openapis.org/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/open-api-initiative
   - type: Documentation
     name: OpenAPI Initiative Documentation
     description: Official documentation for OpenAPI Initiative.
