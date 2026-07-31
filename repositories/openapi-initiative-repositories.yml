@@ -1,0 +1,393 @@
+generated: '2026-07-31'
+method: searched
+source: https://github.com/OAI
+type: Repositories
+organization: OAI
+summary:
+  total: 29
+  archived: 3
+  by_maturity:
+    unclassified: 26
+    working-group: 2
+    governance: 1
+repositories:
+- name: .github
+  url: https://github.com/OAI/.github
+  description: null
+  maturity: governance
+  stars: 2
+  forks: 9
+  open_issues: 1
+  archived: false
+  created: '2022-04-18'
+  updated: '2022-04-20'
+  license: null
+  topics: []
+- name: 1password-teams-open-source
+  url: https://github.com/OAI/1password-teams-open-source
+  description: Get a free 1Password Teams membership for your open source project
+  maturity: unclassified
+  stars: 1
+  forks: 3
+  open_issues: 0
+  archived: false
+  created: '2023-05-09'
+  updated: '2023-05-09'
+  license: null
+  topics: []
+- name: apidays-paris-2018-unconference
+  url: https://github.com/OAI/apidays-paris-2018-unconference
+  description: null
+  maturity: unclassified
+  stars: 4
+  forks: 0
+  open_issues: 8
+  archived: true
+  created: '2018-12-10'
+  updated: '2018-12-10'
+  license: null
+  topics: []
+- name: Arazzo-Specification
+  url: https://github.com/OAI/Arazzo-Specification
+  description: The Arazzo Specification - A Tapestry for Deterministic API Workflows
+  maturity: unclassified
+  stars: 456
+  forks: 69
+  open_issues: 61
+  archived: false
+  created: '2021-08-25'
+  updated: '2026-07-27'
+  license: Apache-2.0
+  topics:
+  - api-workflows
+  - apis
+  - arazzo
+  - arazzo-specification
+  - openapi
+- name: build-infra
+  url: https://github.com/OAI/build-infra
+  description: Holds the build infrastructure for the OpenAPI projects
+  maturity: unclassified
+  stars: 0
+  forks: 2
+  open_issues: 8
+  archived: false
+  created: '2026-06-05'
+  updated: '2026-07-30'
+  license: null
+  topics: []
+- name: community
+  url: https://github.com/OAI/community
+  description: null
+  maturity: unclassified
+  stars: 16
+  forks: 12
+  open_issues: 6
+  archived: false
+  created: '2022-03-22'
+  updated: '2026-07-01'
+  license: null
+  topics: []
+- name: conference
+  url: https://github.com/OAI/conference
+  description: OpenAPI Conference Website
+  maturity: unclassified
+  stars: 1
+  forks: 1
+  open_issues: 1
+  archived: false
+  created: '2025-11-05'
+  updated: '2026-02-20'
+  license: null
+  topics: []
+- name: Gluecon-Workshop
+  url: https://github.com/OAI/Gluecon-Workshop
+  description: The Awesome OAI Gluecon Workshop
+  maturity: unclassified
+  stars: 20
+  forks: 7
+  open_issues: 0
+  archived: true
+  created: '2017-05-19'
+  updated: '2018-09-21'
+  license: null
+  topics: []
+- name: landscape
+  url: https://github.com/OAI/landscape
+  description: null
+  maturity: unclassified
+  stars: 4
+  forks: 6
+  open_issues: 0
+  archived: false
+  created: '2024-10-31'
+  updated: '2026-07-30'
+  license: Apache-2.0
+  topics: []
+- name: learn.openapis.org
+  url: https://github.com/OAI/learn.openapis.org
+  description: OpenAPI - Getting started, and the specification explained
+  maturity: unclassified
+  stars: 224
+  forks: 117
+  open_issues: 46
+  archived: false
+  created: '2020-08-06'
+  updated: '2026-05-07'
+  license: CC-BY-4.0
+  topics:
+  - documentation
+  - oas
+  - openapi3
+  - openapi31
+- name: OAI-Courses
+  url: https://github.com/OAI/OAI-Courses
+  description: OpenAPI Initiative training courses
+  maturity: unclassified
+  stars: 33
+  forks: 5
+  open_issues: 4
+  archived: false
+  created: '2023-10-12'
+  updated: '2026-05-11'
+  license: CC-BY-4.0
+  topics: []
+- name: oascomply
+  url: https://github.com/OAI/oascomply
+  description: null
+  maturity: unclassified
+  stars: 25
+  forks: 8
+  open_issues: 19
+  archived: false
+  created: '2023-04-17'
+  updated: '2025-05-28'
+  license: Apache-2.0
+  topics: []
+- name: OpenAPI-Specification
+  url: https://github.com/OAI/OpenAPI-Specification
+  description: The OpenAPI Specification Repository
+  maturity: unclassified
+  stars: 31123
+  forks: 9162
+  open_issues: 121
+  archived: false
+  created: '2014-03-03'
+  updated: '2026-07-30'
+  license: Apache-2.0
+  topics:
+  - apis
+  - oas
+  - openapi
+  - openapi-specification
+  - rest
+  - webapi
+- name: OpenAPI-Style-Guide
+  url: https://github.com/OAI/OpenAPI-Style-Guide
+  description: 'How to (and how not to) refer to the OAI in meetups, interviews, casual conversations,
+    the settling of bar bets, and for conference presentations. '
+  maturity: unclassified
+  stars: 233
+  forks: 49
+  open_issues: 10
+  archived: false
+  created: '2016-08-24'
+  updated: '2025-04-17'
+  license: Apache-2.0
+  topics: []
+- name: OSSNA-OpenAPI-Workshop
+  url: https://github.com/OAI/OSSNA-OpenAPI-Workshop
+  description: Materials for OpenAPI Workshop at Open Source Summit NA 2018
+  maturity: unclassified
+  stars: 8
+  forks: 2
+  open_issues: 0
+  archived: true
+  created: '2018-08-27'
+  updated: '2018-09-21'
+  license: null
+  topics: []
+- name: Outreach
+  url: https://github.com/OAI/Outreach
+  description: null
+  maturity: unclassified
+  stars: 5
+  forks: 5
+  open_issues: 28
+  archived: false
+  created: '2022-01-07'
+  updated: '2026-07-27'
+  license: null
+  topics: []
+- name: Overlay-Specification
+  url: https://github.com/OAI/Overlay-Specification
+  description: The OAI Overlay Specification
+  maturity: unclassified
+  stars: 122
+  forks: 36
+  open_issues: 15
+  archived: false
+  created: '2021-04-20'
+  updated: '2026-07-31'
+  license: Apache-2.0
+  topics: []
+- name: Projects
+  url: https://github.com/OAI/Projects
+  description: All of the open projects occurring within the Open API Initiative (OAI) community.
+  maturity: unclassified
+  stars: 18
+  forks: 11
+  open_issues: 10
+  archived: false
+  created: '2021-05-10'
+  updated: '2022-04-25'
+  license: Apache-2.0
+  topics:
+  - openapi
+  - openapi-specification
+  - openapi3
+- name: sig-finance
+  url: https://github.com/OAI/sig-finance
+  description: A repo for managing the sig-finance working group within the OpenAPI Initiative (OAI)
+  maturity: working-group
+  stars: 8
+  forks: 3
+  open_issues: 1
+  archived: false
+  created: '2021-10-08'
+  updated: '2021-11-09'
+  license: null
+  topics: []
+- name: sig-formats
+  url: https://github.com/OAI/sig-formats
+  description: Focusing on the Formats Registry efforts
+  maturity: unclassified
+  stars: 2
+  forks: 2
+  open_issues: 0
+  archived: false
+  created: '2021-09-23'
+  updated: '2021-09-23'
+  license: Apache-2.0
+  topics: []
+- name: sig-industry-standards
+  url: https://github.com/OAI/sig-industry-standards
+  description: Used to collect information related to the use of OpenAPI descriptions for defining API
+    standards in industry verticals
+  maturity: unclassified
+  stars: 6
+  forks: 6
+  open_issues: 2
+  archived: false
+  created: '2024-05-30'
+  updated: '2026-03-02'
+  license: Apache-2.0
+  topics: []
+- name: sig-lifecycle
+  url: https://github.com/OAI/sig-lifecycle
+  description: null
+  maturity: unclassified
+  stars: 3
+  forks: 4
+  open_issues: 1
+  archived: false
+  created: '2021-08-02'
+  updated: '2026-07-30'
+  license: Apache-2.0
+  topics: []
+- name: sig-moonwalk
+  url: https://github.com/OAI/sig-moonwalk
+  description: The effort to explore the future of the OpenAPI Specification is known as "Moonwalk." It
+    includes 4.x considerations but also strives to consider 3.x. There is no planned end date to 4.0,
+    so we strongly recommend using the 3.x versions that exist today.
+  maturity: unclassified
+  stars: 349
+  forks: 18
+  open_issues: 7
+  archived: false
+  created: '2022-09-30'
+  updated: '2025-04-08'
+  license: Apache-2.0
+  topics: []
+- name: sig-security
+  url: https://github.com/OAI/sig-security
+  description: null
+  maturity: unclassified
+  stars: 6
+  forks: 3
+  open_issues: 8
+  archived: false
+  created: '2021-08-02'
+  updated: '2021-11-19'
+  license: Apache-2.0
+  topics: []
+- name: sig-travel
+  url: https://github.com/OAI/sig-travel
+  description: A repo for managing the travel working group within the OpenAPI Initiative (OAI)
+  maturity: working-group
+  stars: 10
+  forks: 2
+  open_issues: 17
+  archived: false
+  created: '2021-06-09'
+  updated: '2021-11-18'
+  license: null
+  topics:
+  - openapi
+  - openapi-specification
+  - travel
+- name: spec.openapis.org
+  url: https://github.com/OAI/spec.openapis.org
+  description: OpenAPI Initiative Publications
+  maturity: unclassified
+  stars: 11
+  forks: 17
+  open_issues: 19
+  archived: false
+  created: '2025-10-16'
+  updated: '2026-07-27'
+  license: Apache-2.0
+  topics: []
+- name: Stories
+  url: https://github.com/OAI/Stories
+  description: Submit ideas, writing, and publishing stories about the OpenAPI specification.
+  maturity: unclassified
+  stars: 5
+  forks: 4
+  open_issues: 13
+  archived: false
+  created: '2021-05-10'
+  updated: '2021-10-14'
+  license: null
+  topics:
+  - openapi
+  - openapi-specification
+  - openapi3
+- name: Talks-and-Workshops
+  url: https://github.com/OAI/Talks-and-Workshops
+  description: A collection of talks and workshops provided by OAI members
+  maturity: unclassified
+  stars: 37
+  forks: 12
+  open_issues: 0
+  archived: false
+  created: '2018-09-21'
+  updated: '2022-04-25'
+  license: Apache-2.0
+  topics: []
+- name: tools.openapis.org
+  url: https://github.com/OAI/tools.openapis.org
+  description: A collection of open-source and commercial tools for creating your APIs with OpenAPI -
+    Sourced from and published for the community
+  maturity: unclassified
+  stars: 175
+  forks: 79
+  open_issues: 39
+  archived: false
+  created: '2022-01-14'
+  updated: '2026-07-31'
+  license: null
+  topics:
+  - openapi
+  - openapi-spec
+  - openapi3

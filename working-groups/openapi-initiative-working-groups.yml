@@ -1,0 +1,55 @@
+generated: '2026-07-31'
+method: searched
+source:
+- https://github.com/OAI
+type: WorkingGroups
+summary:
+  working_groups: 7
+  note: The OAI calls these Special Interest Groups (SIGs) and manages each in its own repository under github.com/OAI. Reproduced
+    as the body names them.
+working_groups:
+- name: sig-finance
+  description: A repo for managing the sig-finance working group within the OpenAPI Initiative (OAI)
+  stars: 8
+  archived: false
+  url: https://github.com/OAI/sig-finance
+  pushed_at: null
+- name: sig-formats
+  description: Focusing on the Formats Registry efforts
+  stars: 2
+  archived: false
+  url: https://github.com/OAI/sig-formats
+  pushed_at: null
+- name: sig-industry-standards
+  description: Used to collect information related to the use of OpenAPI descriptions for defining API standards in industry
+    verticals
+  stars: 6
+  archived: false
+  url: https://github.com/OAI/sig-industry-standards
+  pushed_at: null
+- name: sig-lifecycle
+  description: null
+  stars: 3
+  archived: false
+  url: https://github.com/OAI/sig-lifecycle
+  pushed_at: null
+- name: sig-moonwalk
+  description: The effort to explore the future of the OpenAPI Specification is known as "Moonwalk." It includes 4.x considerations
+    but also strives to consider 3.x. There is no planned end date to 4.0, so we strongly recommend using the 3.x versions
+    that exist today.
+  stars: 349
+  archived: false
+  url: https://github.com/OAI/sig-moonwalk
+  pushed_at: null
+- name: sig-security
+  description: null
+  stars: 6
+  archived: false
+  url: https://github.com/OAI/sig-security
+  pushed_at: null
+- name: sig-travel
+  description: A repo for managing the travel working group within the OpenAPI Initiative (OAI)
+  stars: 10
+  archived: false
+  url: https://github.com/OAI/sig-travel
+  pushed_at: null

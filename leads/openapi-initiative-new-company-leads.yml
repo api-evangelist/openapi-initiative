@@ -1,0 +1,9 @@
+generated: '2026-07-31'
+method: derived
+source: derived from openapi-initiative/companies/openapi-initiative-companies.yml
+type: Leads
+summary:
+  leads: 0
+  min_participants: 1
+  with_governance_seat: 0
+leads: []

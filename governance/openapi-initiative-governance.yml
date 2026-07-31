@@ -1,0 +1,35 @@
+generated: '2026-07-31'
+method: searched
+source:
+- https://charter.openapis.org
+- https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+- https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+- https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects?slug=openapi
+type: Governance
+host: Linux Foundation
+project_started: '2017-07-26'
+model: Membership
+charter: https://charter.openapis.org
+bodies:
+- name: Technical Steering Committee
+  abbr: TSC
+  members_active: 6
+  members_emeritus: 6
+  source: https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  note: The TSC roster is maintained as MAINTAINERS.md in the specification repository, not on the website.
+- name: Technical Oversight Board
+  abbr: TOB
+  members: 7
+  composition:
+    TSC-Elected: 4
+    BGB-Elected: 3
+  source: https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  published_terms:
+    TSC-Elected: through May 2023
+    BGB-Elected: through May 2022
+  note: 'OBSERVED AS PUBLISHED: both term windows in TOB.md have elapsed. Recorded as the body publishes it; confirm against
+    minutes before treating as a current roster.'
+- name: Business Governance Board
+  abbr: BGB
+  note: Referenced by the TOB roster as an electing body. No separate public roster located at the time of harvest.
+membership_source: Linux Foundation project service

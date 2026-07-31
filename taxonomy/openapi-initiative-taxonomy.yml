@@ -1,0 +1,27 @@
+generated: '2026-07-31'
+method: searched
+source:
+- https://www.openapis.org/
+- https://spec.openapis.org/
+type: Taxonomy
+note: The OAI's own framing of its specification portfolio, reproduced as the body states it.
+specifications:
+- name: OpenAPI Specification
+  abbr: OAS
+  repository: OAI/OpenAPI-Specification
+  scope: A standard, language-agnostic interface description for HTTP APIs.
+- name: Arazzo Specification
+  repository: OAI/Arazzo-Specification
+  scope: A tapestry for deterministic API workflows — sequences of calls across one or more APIs.
+- name: Overlay Specification
+  repository: OAI/Overlay-Specification
+  scope: Deterministic, repeatable updates to an OpenAPI description through automation.
+programmes:
+- name: learn.openapis.org
+  scope: Getting started and the specification explained.
+- name: tools.openapis.org
+  scope: Registry of open-source and commercial OpenAPI tooling.
+- name: spec.openapis.org
+  scope: Publication site for the specifications.
+- name: sig-moonwalk
+  scope: The effort to explore the future of the OpenAPI Specification.

@@ -1,0 +1,178 @@
+generated: '2026-07-31'
+method: searched
+source:
+- https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+- https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+type: People
+summary:
+  people: 14
+  with_github_id: 14
+  in_governance_bodies: 14
+  bodies:
+    Technical Steering Committee: 12
+    Technical Oversight Board: 7
+  contributing: 13
+  note: Governance rosters only. The wider contributor population (726) is in contributors/.
+people:
+- name: Ralf Handl
+  org: null
+  github_id: ralfhandl
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 1190
+  repository_count: 6
+- name: Ron Ratovsky
+  org: null
+  github_id: webron
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 423
+  repository_count: 12
+- name: Tony Tam
+  org: null
+  github_id: fehguy
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 400
+  repository_count: 1
+- name: Lorna Mitchell
+  org: null
+  github_id: lornajane
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 346
+  repository_count: 6
+- name: Darrel Miller
+  org: null
+  github_id: darrelmiller
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 284
+  repository_count: 6
+- name: Mike Ralphson
+  org: null
+  github_id: MikeRalphson
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 159
+  repository_count: 7
+- name: Marsh Gardiner
+  org: null
+  github_id: earth2marsh
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 131
+  repository_count: 9
+- name: Miguel Quintero
+  org: null
+  github_id: miqui
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 129
+  repository_count: 4
+- name: Jason Harmon
+  org: null
+  github_id: jharmn
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 21
+  repository_count: 1
+- name: Jeremy Whitlock
+  org: null
+  github_id: whitlockjc
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 13
+  repository_count: 2
+- name: Uri Sarid
+  org: null
+  github_id: usarid
+  role: Emeritus
+  title: null
+  bodies:
+  - Technical Steering Committee
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 8
+  repository_count: 1
+- name: Isabelle Mauny
+  org: null
+  github_id: isamauny
+  role: TSC-Elected
+  title: null
+  bodies:
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md
+  contributions: 3
+  repository_count: 1
+- name: Mike Kistler
+  org: null
+  github_id: mikekistler
+  role: Active
+  title: null
+  bodies:
+  - Technical Steering Committee
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/MAINTAINERS.md
+  contributions: 1
+  repository_count: 1
+- name: Jerome Louvel
+  org: null
+  github_id: jlouvel
+  role: BGB-Elected
+  title: null
+  bodies:
+  - Technical Oversight Board
+  sources:
+  - https://github.com/OAI/OpenAPI-Specification/blob/main/TOB.md

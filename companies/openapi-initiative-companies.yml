@@ -1,0 +1,1721 @@
+generated: '2026-07-31'
+method: searched
+source:
+- https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+type: Companies
+summary:
+  companies: 100
+  raw_records: 169
+  note: OpenAPI Initiative member organizations as published by the Linux Foundation project service. Deduplicated by website.
+  in_network: 23
+  missing: 77
+  api_providers_in_network: 13
+  with_governance_seat: 0
+  governance_seat_in_network: 0
+  matched: '2026-07-31'
+  companies_in_network: 22
+  review_note: One auto-match (APImetrics) was rejected on manual review. Matches are name-derived and confirmed against the
+    network index; a rejected guess costs nothing.
+companies:
+- name: 3scale, Inc
+  domain: 3scale.net
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fbhUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/red-hat
+  stock_ticker: RHT
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: 3scale-inc
+- name: 42Crunch
+  domain: 42crunch.com
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000i8fkwUAA
+    MembershipStatus: Active
+    Name: Participating Membership - LFNM
+    Status: Active
+  linkedin: company/42crunch
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: 42crunch
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: aapi.io
+  domain: aapi.io
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fndUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/cyber-ark-software
+  stock_ticker: CYBR
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: aapi-io
+- name: Ably Real-Time Ltd.
+  domain: ably.io
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000i8fUuUAI
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/ably-realtime
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ably-real-time-ltd
+- name: Acumatica Inc.
+  domain: acumatica.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000i8fROUAY
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/acumatica
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: acumatica-inc
+- name: Adobe Inc.
+  domain: adobe.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: company/adobe
+  stock_ticker: ADBE
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: adobe-inc
+- name: Ambassador Labs (f/k/a Datawire)
+  domain: datawire.io
+  membership:
+    Family: Membership
+    ID: a0M2M00000iSOIdUAO
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/ambassadorlabs
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ambassador-labs-f-k-a-datawire
+- name: API Evangelist
+  domain: apievangelist.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fRIUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/api-evangelist
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: api-evangelist-network
+  in_network: true
+  is_api_provider: false
+  matched_by: slug-prefix
+- name: API First, LLC
+  domain: www.apifirst.net
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    Name: Participating Membership
+    Status: Invoice Cancelled
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: api-first-llc
+- name: API Fortress
+  domain: apifortress.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fYHUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/api-fortress
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: api-fortress
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: apiaddicts
+  domain: apiaddicts.org
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000ierbDUAQ
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/apiaddicts
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: apiaddicts
+- name: Apiary
+  domain: apiary.io
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fpRUAQ
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/apiary-io
+  stock_ticker: ORCL
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: apiary
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Apideck
+  domain: apideck.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0MQP000002PxJt2AK
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/apideck
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: apideck
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Apigee Corporation
+  domain: apigee.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fDyUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/apigee
+  stock_ticker: GOOG
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: apigee-corporation
+- name: APIIDA AG
+  domain: apiida.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000h6gmnUAA
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/apiida
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: apiida-ag
+- name: APImetrics
+  domain: apimetrics.io
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000i8ff4UAA
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/apimetrics
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: false
+  matched_by: rejected
+  matched_domain: apimetrics.io
+  match_note: Auto-match resolved APImetrics to an unrelated "API Linting" repo; rejected on manual review.
+- name: apiplatform.io
+  domain: apiplatform.io
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000iqSLLUA2
+    MembershipStatus: Expired
+    Name: Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/apiplatform-io
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: apiplatform-io
+- name: Assertible
+  domain: assertible.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: company/assertible
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: assertible
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Atlassian US, Inc
+  domain: atlassian.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/atlassian
+  stock_ticker: TEAM
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: atlassian-us-inc
+- name: AVAP
+  domain: avapsphere.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0MQP000000qHuP2AU
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: avap-brunix
+  in_network: true
+  is_api_provider: false
+  matched_by: slug-prefix
+- name: BetterCloud
+  domain: bettercloud.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: https://www.linkedin.com/company/bettercloud
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: bettercloud
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Bitmovin, Inc.
+  domain: bitmovin.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fUsUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/bitmovin
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: bitmovin-inc
+- name: Bloomberg Finance L.P.
+  domain: techatbloomberg.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8fRFUAY
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/bloomberg-bna
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: bloomberg-finance-l-p
+- name: Briscola Inc.
+  domain: briscola-api.com
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000k2w2WUAQ
+    MembershipStatus: Active
+    Name: Participating Membership - LFNM
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: briscola-inc
+- name: bump.sh
+  domain: bump.sh
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000iyXlBUAU
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/bump-sh
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: bump-sh
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: CA Technologies
+  domain: ca.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fNbUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/broadcom
+  stock_ticker: AVGO
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ca-technologies
+- name: Capital One Services LLC
+  domain: capitalone.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/capital-one
+  stock_ticker: COF
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: capital-one-services-llc
+- name: Checkly
+  domain: checklyhq.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000fbZIAUA2
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/checkly
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: checkly
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cisco Systems, Inc.
+  domain: cisco.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000jE1P8UAK
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/cisco
+  stock_ticker: CSCO
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cisco-systems-inc
+- name: Cloud Elements LLC
+  domain: cloud-elements.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fDxUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/cloud-elements
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cloud-elements-llc
+- name: Dynatrace LLC
+  domain: dynatrace.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/dynatrace
+  stock_ticker: DT
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: dynatrace-llc
+- name: eBay, Inc.
+  domain: ebay.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8ffBUAQ
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/ebay
+  stock_ticker: EBAY
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ebay-inc
+- name: Feynman Foundation
+  domain: feynmanfoundation.org
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000iyUScUAM
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/feynman-foundation
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: feynman-foundation
+- name: Finxact, LLC
+  domain: finxact.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership - LFNM
+    Status: Invoice Cancelled
+  linkedin: company/finxact
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: finxact-llc
+- name: Flotiq LLC
+  domain: flotiq.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000j0j7JUAQ
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/flotiq
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: flotiq-llc
+- name: Geek.Zone
+  domain: geek.zone
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000j0uetUAA
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/geekzonehq
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: geek-zone
+- name: Getting APIs to Work
+  domain: gettingapistowork.io
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0MKc000000HKNIMA4
+    MembershipStatus: Active
+    Name: Participating Membership - LFNM
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: getting-apis-to-work
+- name: Gitbook
+  domain: gitbook.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0MQP000001ejU52AI
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/gitbook
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: gitbook
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Google LLC
+  domain: google.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8fpSUAQ
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/google
+  stock_ticker: GOOGL
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: google-llc
+- name: Hart Inc.
+  domain: hart.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/hart-associates
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: hart-inc
+- name: Her Majesty's Government
+  domain: gov.uk
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000i8etOUAQ
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: her-majesty-s-government
+- name: High School Technology Services
+  domain: myhsts.org
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000fb6Y8UAI
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: high-school-technology-services
+- name: IFS World Operations AB
+  domain: ifsworld.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 500 - 4999
+    Family: Membership
+    ID: a0M2M00000i8ewmUAA
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/ifs
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ifs-world-operations-ab
+- name: Imperva, Inc.
+  domain: imperva.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fUoUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/imperva
+  stock_ticker: IMPV
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: imperva-inc
+- name: Intento, Inc
+  domain: inten.to
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fY9UAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/inten.to
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: intento-inc
+- name: International Business Machines Corporation
+  domain: ibm.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8eIsUAI
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/ibm
+  stock_ticker: IBM
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: international-business-machines-corporation
+- name: Interzoid
+  domain: interzoid.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fhzUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/interzoid
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: interzoid
+- name: Intrinio
+  domain: intrinio.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fl0UAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/intrinio
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: intrinio
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Intuit, Inc.
+  domain: intuit.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fYBUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/intuit
+  stock_ticker: INTU
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: intuit-inc
+- name: ISA Research Group
+  domain: isa.us.es
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000i8fE5UAI
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/universidad-de-sevilla
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: isa-research-group
+- name: Jentic Technology Limited
+  domain: jentic.com
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0MQP000001tJO12AM
+    MembershipStatus: Active
+    Name: Participating Membership - LFNM
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: jentic-technology-limited
+- name: Karate Labs Inc.
+  domain: www.karatelabs.io
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000jLNofUAG
+    MembershipStatus: Expired
+    Name: Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/karatelabs
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: karate-labs-inc
+- name: Kong Inc.
+  domain: konghq.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 100 - 499
+    Family: Membership
+    ID: a0M2M00000i8fi4UAA
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/mashape
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: kong-inc
+- name: Kubernetes Innovation Labs LLC (Kubeshop)
+  domain: kubeshop.io
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000iq6lBUAQ
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/kubeshop
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: kubernetes-innovation-labs-llc-kubeshop
+- name: Level 250, Inc.
+  domain: level250.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000iSVIxUAO
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/level-250
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: level-250-inc
+- name: LFOD Integration Services
+  domain: lfod.io
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0MQP000001mVCD2A2
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/mobility-connectors
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: lfod-integration-services
+- name: Liferay, Inc.
+  domain: liferay.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fUpUAI
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/liferay-inc-
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: liferay-inc
+- name: LinksRez
+  domain: linksrez.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fkvUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/linksrez
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: linksrez
+- name: Microsoft Corporation
+  domain: microsoft.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8f3sUAA
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Purchased
+  linkedin: www.linkedin.com/company/microsoft
+  stock_ticker: MSFT
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: microsoft-corporation
+- name: ModelSolv, Inc. d.b.a. RepreZen
+  domain: reprezen.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8eaHUAQ
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/reprezen
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: modelsolv-inc-d-b-a-reprezen
+- name: MuleSoft
+  domain: mulesoft.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fkxUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/www.mulesoft.com
+  stock_ticker: CRM
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: mulesoft
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: NHSX
+  domain: nhs.net
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000i8fs3UAA
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/nhs-trust
+  stock_ticker: MSFT
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: nhsx
+- name: Noname Security
+  domain: nonamesecurity.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 100 - 499
+    Family: Membership
+    Name: Participating Membership
+    Status: Invoice Cancelled
+  linkedin: company/nonamesecurity
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: noname-security
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ocean Networks Canada
+  domain: oceannetworks.ca
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000jaGzAUAU
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/ocean-networks-canada
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: ocean-networks-canada
+- name: OpenTravel Alliance
+  domain: opentravel.org
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000i8fAkUAI
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/opentravel
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: opentravel-alliance
+  in_network: true
+  is_api_provider: null
+  matched_by: name-slug
+- name: Optic
+  domain: useoptic.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000j0mKHUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/useoptic
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: optic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Osaango
+  domain: osaango.com
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000i8fnWUAQ
+    MembershipStatus: Expired
+    Name: Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/osaango
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: osaango
+- name: Parasoft
+  domain: parasoft.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fkzUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/parasoft
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: parasoft
+- name: PayPal Holdings, Inc.
+  domain: paypal.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fpUUAQ
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/paypal
+  stock_ticker: PYPL
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: paypal-holdings-inc
+- name: Platformatic
+  domain: platformatic.dev
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000jbNHkUAM
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/platformatic
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: platformatic
+- name: Postman
+  domain: postman.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 100 - 499
+    Family: Membership
+    ID: a0M2M00000i8fnXUAQ
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/postman-platform
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: postman
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: RapidAPI
+  domain: rapidapi.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    Name: Participating Membership
+    Status: Invoice Cancelled
+  linkedin: company/rapidapi
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: rapidapi
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: ReadMe
+  domain: readme.io
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000h5V04UAE
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/readme
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: readme
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Red Hat LLC
+  domain: redhat.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8fYEUAY
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/red-hat
+  stock_ticker: RHT
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: red-hat-llc
+- name: Redocly Inc
+  domain: redocly.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000jbD70UAE
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/redocly
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: redocly-inc
+- name: Restlet, Inc.
+  domain: restlet.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: company/talend
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: restlet-inc
+- name: Salesforce.com, Inc.
+  domain: salesforce.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8fREUAY
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/salesforce
+  stock_ticker: CRM
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: salesforce-com-inc
+- name: Sampo Software Oy
+  domain: samposoftware.com
+  membership:
+    Family: Membership
+    Name: DNU - Silver Membership
+    Status: Invoice Cancelled
+  linkedin: company/sampo-software-oy
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sampo-software-oy
+- name: Samsung Electronics Co. Ltd.
+  domain: samsung.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/samsung-electronics
+  stock_ticker: SSUN
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: samsung-electronics-co-ltd
+- name: SAP SE
+  domain: sap.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 5000+
+    Family: Membership
+    ID: a0M2M00000i8fsqUAA
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/sap
+  stock_ticker: SAP
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sap-se
+- name: Scalar
+  domain: scalar.com
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0MKc000000HTBXMA4
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/scalar-inc
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: scalar
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: SmartBear Software, Inc.
+  domain: smartbear.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 500 - 4999
+    Family: Membership
+    ID: a0M2M00000i8fDzUAI
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: www.linkedin.com/company/smartbear-software
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: smartbear-software-inc
+- name: Software AG
+  domain: softwareag.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fblUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: https://www.linkedin.com/company/software-ag
+  stock_ticker: SOW
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: software-ag
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Speakeasy Development, Inc.
+  domain: speakeasyapi.dev
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    Name: Participating Membership - LFNM
+    Status: Invoice Cancelled
+  linkedin: company/speakeasyapi
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: speakeasy-development-inc
+- name: Stoplight
+  domain: stoplight.io
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000i8fi1UAA
+    MembershipStatus: Expired
+    Name: Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/stoplight
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: stoplight
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: SWIFT, INC.
+  domain: swift.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership
+    Status: Invoice Cancelled
+  linkedin: www.linkedin.com/company/swift
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: swift-inc
+- name: Talend, Inc.
+  domain: talend.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fYCUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/talend
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: talend-inc
+- name: TeejLab Inc.
+  domain: teejlab.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fYJUAY
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/teejlab
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: teejlab-inc
+- name: The Guild
+  domain: the-guild.dev
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000j7MTlUAM
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/the-guild-software
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: the-guild
+- name: Timewarp Inc
+  domain: timewarp.io
+  membership:
+    Family: Membership
+    ID: a0M2M00000iKyetUAC
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/timewarp-inc
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: timewarp-inc
+- name: TORO Cloud
+  domain: torocloud.com
+  membership:
+    Family: Membership
+    Name: DNU - Participating Membership - LFNM
+    Status: Invoice Cancelled
+  linkedin: company/torocloud
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: toro-cloud
+- name: Treblle Limited
+  domain: treblle.com
+  membership:
+    Description: OpenAPI Initiative Participating Membership Total Employee Size 1 - 9
+    Family: Membership
+    ID: a0M2M00000j0O0wUAE
+    MembershipStatus: Expired
+    Name: Participating Membership
+    Status: Expired
+  linkedin: company/treblle
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: treblle-limited
+- name: Tyk Technologies Ltd.
+  domain: tyk.io
+  membership:
+    Description: Open API Initiative Participating Membership Total Employee Size 10 - 99
+    Family: Membership
+    ID: a0M2M00000i8f3uUAA
+    MembershipStatus: Active
+    Name: Participating Membership
+    Status: Active
+  linkedin: company/tyk
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: tyk-technologies-ltd
+- name: udgi foundation
+  domain: udgifoundation.org
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000juih9UAA
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: null
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: udgi-foundation
+- name: University of Limerick
+  domain: ul.ie
+  membership:
+    Description: OpenAPI Initiative Academic or Non-Profit Membership
+    Family: Membership
+    ID: a0M2M00000jurs1UAA
+    MembershipStatus: Active
+    Name: Academic or Non-Profit Membership
+    Status: Active
+  linkedin: company/university-of-limerick
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: university-of-limerick
+- name: Urssaf
+  domain: urssaf.org
+  membership:
+    Family: Membership
+    ID: a0M2M00000j1EMyUAM
+    MembershipStatus: Expired
+    Name: DNU - Academic or Non-Profit Membership
+    Status: Expired
+  linkedin: company/urssaf-caisse-nationale
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: urssaf
+- name: Vonage Holdings Corp.
+  domain: vonage.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8f3tUAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: www.linkedin.com/company/vonage
+  stock_ticker: VG
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: vonage-holdings-corp
+- name: WireMock Inc
+  domain: wiremock.io
+  membership:
+    Description: OpenAPI Initiative Membership (total employee size 0-9) LF Non-Member
+    Family: Membership
+    ID: a0M2M00000j6RqVUAU
+    MembershipStatus: Expired
+    Name: Participating Membership - LFNM
+    Status: Expired
+  linkedin: company/wiremock
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: wiremock-inc
+- name: World Data Corporation
+  domain: bandprotocol.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8f05UAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/band-protocol
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: world-data-corporation
+- name: WSO2 LLC.
+  domain: wso2.com
+  membership:
+    Family: Membership
+    ID: a0M2M00000i8fi9UAA
+    MembershipStatus: Expired
+    Name: DNU - Participating Membership
+    Status: Expired
+  linkedin: company/wso2
+  stock_ticker: null
+  sources:
+  - https://api-gw.platform.linuxfoundation.org/project-service/v1/public/projects/a0941000002wBykAAE/members
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: wso2-llc
