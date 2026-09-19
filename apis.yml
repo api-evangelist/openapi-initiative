@@ -31,6 +31,10 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/openapi-initiative.png
 tags:
   - Linux Foundation
+  - Specification
+  - Standards
+tags_raw:
+  - Linux Foundation
   - Specifications
   - Standards
 created: '2026-03-16'
@@ -45,6 +49,8 @@ apis:
       API for accessing OpenAPI Initiative resources, specifications, and tooling ecosystem documentation for defining standard interfaces to RESTful APIs.
     humanURL: https://spec.openapis.org/
     tags:
+      - Specification
+    tags_raw:
       - Specifications
     properties:
       - type: Documentation
